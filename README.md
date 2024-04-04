@@ -1,4 +1,5 @@
 # assamindata.github.io
 
-- [Page 1](pages/basic.html)
-- [Page 2](docs/index.html)
+- [Page 1](pages/index.html)
+- [Page 2](pages/basic.html)
+
